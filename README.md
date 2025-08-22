@@ -5,7 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshith%20Basa-blue?logo=linkedin)](https://www.linkedin.com/in/sri-sai-durga-harshith-basa-b8a20724b)  
 [![Twitter](https://img.shields.io/badge/Twitter-@Harshith153-blue?logo=twitter)](https://x.com/)  
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
-[![Stars](https://img.shields.io/github/stars/harshith153/ai-article-summarizer?style=social)](https://github.com/harshith153/ai-article-summarizer/stargazers)  
 
 ---
 
