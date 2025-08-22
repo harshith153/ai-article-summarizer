@@ -42,3 +42,5 @@ This project automates the process of *fetching AI-related articles, generating 
    ```bash
    git clone https://github.com/harshith153/ai-article-summarizer.git
    cd ai-article-summarizer
+
+2. Create a .env file OPENAI_API_KEY=your_openai_key LINKEDIN_ACCESS_TOKEN=your_linkedin_token X_BEARER_TOKEN=your_twitter_token 3. Import the provided workflow.json into n8n. 4. Start your n8n instance: n8n start --- 🌐 Example Articles Used Microsoft Build 2025 – The Age of AI Agents IBM – Generative AI Topics --- 📢 Social Media Posts 🔗 LinkedIn Post 🐦 Twitter/X Post --- 📌 Author 👤 Sri Sai Durga Harshith Basa 📧 harshithbasa2005@gmail.com 🔗 LinkedIn
