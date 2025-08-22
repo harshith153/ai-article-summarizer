@@ -7,7 +7,7 @@
 ---
 
 ## 📌 Project Overview
-This project automates the process of *fetching AI-related articles, generating social-media-ready summaries, and posting them directly to LinkedIn and Twitter (X)* using **n8n workflows**.
+This project automates the process of fetching AI-related articles, generating **social-media-ready summaries**, and posting them directly to **LinkedIn** and **Twitter (X)** using **n8n workflows**.
 
 ---
 
@@ -31,16 +31,61 @@ This project automates the process of *fetching AI-related articles, generating 
 
 ## 📊 Workflow
 
-🔗 [View Workflow File](https://drive.google.com/file/d/1JZa2l5YQvQBwMVDSYafrgUj2PRN6g58M/view?usp=sharing)  
+🔗 [Download Workflow JSON](https://drive.google.com/file/d/1JZa2l5YQvQBwMVDSYafrgUj2PRN6g58M/view?usp=sharing)  
 
-![Workflow Screenshot](workflow.png)
 
 ---
 
 ## 🔑 Setup Instructions
+
 1. Clone this repository  
    ```bash
    git clone https://github.com/harshith153/ai-article-summarizer.git
    cd ai-article-summarizer
 
-2. Create a .env file OPENAI_API_KEY=your_openai_key LINKEDIN_ACCESS_TOKEN=your_linkedin_token X_BEARER_TOKEN=your_twitter_token 3. Import the provided workflow.json into n8n. 4. Start your n8n instance: n8n start --- 🌐 Example Articles Used Microsoft Build 2025 – The Age of AI Agents IBM – Generative AI Topics --- 📢 Social Media Posts 🔗 LinkedIn Post 🐦 Twitter/X Post --- 📌 Author 👤 Sri Sai Durga Harshith Basa 📧 harshithbasa2005@gmail.com 🔗 LinkedIn
+2. Create a .env file
+
+OPENAI_API_KEY=your_openai_key
+LINKEDIN_ACCESS_TOKEN=your_linkedin_token
+X_BEARER_TOKEN=your_twitter_token
+
+
+3. Import the provided workflow.json into n8n.
+
+
+4. Start your n8n instance:
+
+n8n start
+
+
+
+
+---
+
+🌐 Example Articles Used
+
+Microsoft Build 2025 – The Age of AI Agents
+
+IBM – Generative AI Topics
+
+
+
+---
+
+📢 Social Media Posts
+
+🔗 LinkedIn Post
+🐦 Twitter/X Post
+
+
+---
+
+📌 Author
+
+👤 Sri Sai Durga Harshith Basa
+
+📧 harshithbasa2005@gmail.com
+
+🔗 LinkedIn
+
+🐙 GitHub                                                                           in this add work flow link : https://drive.google.com/file/d/1JZa2l5YQvQBwMVDSYafrgUj2PRN6g58M/view?usp=sharing                 and add  articles links i have used : https://www.ibm.com/think/topics/generative-ai   &    https://blogs.microsoft.com/blog/2025/05/19/microsoft-build-2025-the-age-of-ai-agents-and-building-the-open-agentic-web/       please add my linked in url in posts and twitter url in twitter post 
