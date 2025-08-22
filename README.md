@@ -31,7 +31,7 @@ This project automates the process of fetching AI-related articles, generating *
 
 ## 📊 Workflow
 
-🔗 [Download Workflow JSON](https://drive.google.com/file/d/1JZa2l5YQvQBwMVDSYafrgUj2PRN6g58M/view?usp=sharing)  
+🔗 [Preview screenshot](https://drive.google.com/file/d/1JZa2l5YQvQBwMVDSYafrgUj2PRN6g58M/view?usp=sharing)  
 
 
 ---
