@@ -64,9 +64,9 @@ n8n start
 
 🌐 Example Articles Used
 
-Microsoft Build 2025 – The Age of AI Agents
+Microsoft Build 2025 – The Age of AI Agents  [![Microsoft Article](https://img.shields.io/badge/Microsoft-Build%202025-blue?logo=microsoft)](https://blogs.microsoft.com/blog/2025/05/19/microsoft-build-2025-the-age-of-ai-agents-and-building-the-open-agentic-web/)
 
-IBM – Generative AI Topics
+IBM – Generative AI Topics [![IBM Article](https://img.shields.io/badge/IBM-Generative%20AI-blue?logo=ibm)](https://www.ibm.com/think/topics/generative-ai)
 
 
 
@@ -74,8 +74,8 @@ IBM – Generative AI Topics
 
 📢 Social Media Posts
 
-🔗 LinkedIn Post
-🐦 Twitter/X Post
+🔗 [![LinkedIn Post](https://img.shields.io/badge/LinkedIn-Harshith%20Basa-blue?logo=linkedin)](https://www.linkedin.com/in/sri-sai-durga-harshith-basa-b8a20724b)  
+🐦 [![Twitter/X Post](https://img.shields.io/badge/Twitter-@Harshith153-blue?logo=twitter)](https://x.com/Harshith153) 
 
 
 ---
@@ -86,6 +86,4 @@ IBM – Generative AI Topics
 
 📧 harshithbasa2005@gmail.com
 
-🔗 LinkedIn
-
-🐙 GitHub                                                                           in this add work flow link : https://drive.google.com/file/d/1JZa2l5YQvQBwMVDSYafrgUj2PRN6g58M/view?usp=sharing                 and add  articles links i have used : https://www.ibm.com/think/topics/generative-ai   &    https://blogs.microsoft.com/blog/2025/05/19/microsoft-build-2025-the-age-of-ai-agents-and-building-the-open-agentic-web/       please add my linked in url in posts and twitter url in twitter post 
+🔗 LinkedIn [![LinkedIn Post](https://img.shields.io/badge/LinkedIn-Harshith%20Basa-blue?logo=linkedin)](https://www.linkedin.com/in/sri-sai-durga-harshith-basa-b8a20724b)
